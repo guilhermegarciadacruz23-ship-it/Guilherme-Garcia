@@ -23,5 +23,5 @@ Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habili
 </div><br>
 
 <a href="https://www.linkedin.com/in/guilherme-garcia-da-cruz-ba0b05358">
-  <img src="[https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" )">
+  <img src="[https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ) target="_blank">
 </a>
