@@ -22,12 +22,8 @@ Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habili
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" />
 </div><br>
 
-<a href="https://www.linkedin.com/in/guilherme-garcia-da-cruz-ba0b05358">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:guilhermegarciadacruz23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail">
-</a>
-
-
+<div>
+  <a href="https://www.linkedin.com/in/guilherme-garcia-da-cruz-ba0b05358/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
