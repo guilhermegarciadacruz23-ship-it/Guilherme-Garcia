@@ -1,1 +1,27 @@
-# Guilherme-Garcia
+👋 Olá, eu sou Guilherme!
+
+🎓 Estudante de Engenharia de Software
+💻 Desenvolvedor em formação com foco em Java/python e Dados.
+
+Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação e buscar minha primeira oportunidade na área de TI.
+
+🛠️ Tecnologias
+☕ Java
+🌐 HTML, CSS e JavaScript
+🗄️ SQL e MySQL
+🔧 Git e GitHub
+🎯 Objetivo
+
+🚀 Me tornar um Desenvolvedor Backend e evoluir constantemente na área de tecnologia.
+
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" height="30" alt="C" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" />
+</div><br>
+
+<div>
+  <a href= "www.linkedin.com/in/guilherme-garcia-da-cruz-ba0b05358 target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</div>
